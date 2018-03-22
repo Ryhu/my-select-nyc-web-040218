@@ -11,5 +11,5 @@ def my_select(collection)
  
  
  
- 
+ result
 end
